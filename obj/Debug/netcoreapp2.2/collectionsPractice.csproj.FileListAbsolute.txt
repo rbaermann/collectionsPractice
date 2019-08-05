@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/bin/Debug/netcoreapp2.2/collectionsPractice.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/collectionsPractice/obj/Debug/netcoreapp2.2/collectionsPractice.pdb
